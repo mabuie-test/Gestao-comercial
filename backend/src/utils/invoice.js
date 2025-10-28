@@ -1,6 +1,6 @@
 import PDFDocument from 'pdfkit';
 import dayjs from 'dayjs';
-import 'dayjs/locale/pt';
+import 'dayjs/locale/pt.js';
 
 dayjs.locale('pt');
 
